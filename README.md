@@ -1,38 +1,68 @@
-# 👋 Hi, I'm Kzi  
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6464&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kzi!+%F0%9F%91%8B;Developer+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%96%A5%EF%B8%8F;Automation+Lover+%F0%9F%94%A7" alt="Typing SVG" />
+</p>
 
-🌟 Welcome to my GitHub profile!  
-I’m a developer passionate about **Node.js**, **AI bots**, and **automation**.  
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/5FZTQyd/code-banner.gif" alt="banner" width="900"/>
+</p>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on: Facebook Bot (FCA, Gemini API, AI Assistant Su 💬)  
-- 🌱 Learning: **Backend Development**, **AI Integration**  
-- 🎯 Goal: Build smart assistants that can chat naturally and help with real tasks  
-- ⚡ Fun fact: I debug better with coffee ☕  
+## 🌟 About Me
+- 🔭 Working on: **Facebook AI Bot "Su"**  
+- 🌱 Learning: **Backend Development**, **AI/ML**  
+- 💡 Goal: Build **AI assistants** that feel human  
+- ⚡ Fact: My code runs better after midnight 🌙  
 
 ---
 
 ## 🛠️ Tech Stack
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,ts,py,mongodb,mysql,redis,git,github,html,css,tailwind,vscode,docker,linux,nginx,react&perline=8" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kzi207&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kzi207&layout=compact&theme=radical)
+## 🎨 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kzi207&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kzi207&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kzi207&theme=radical&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kzi207&theme=radical" alt="summary"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
-[![Facebook](https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/kzi207)
-[![Zalo](https://img.shields.io/badge/Zalo-008FE5?style=for-the-badge&logo=messenger&logoColor=white)](https://zalo.me/0939042183)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](toi05022020@gmail.coml@gmail.com)
+<p align="center">
+  <a href="https://facebook.com/kzi207">
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://zalo.me/0939042183">
+    <img src="https://img.shields.io/badge/Zalo-008FE5?style=for-the-badge&logo=messenger&logoColor=white"/>
+  </a>
+  <a href="toi05022020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐️ From [Kzi](https://github.com/Kzi207)
+## 🎶 Fun Zone
+<p align="center">
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="300"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
