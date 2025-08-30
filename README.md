@@ -53,6 +53,12 @@
 </p>
 
 ---
+## ⏳ Coding Activity
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+---
 
 ## 🎶 Fun Zone
 <p align="center">
