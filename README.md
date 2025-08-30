@@ -11,9 +11,8 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Working on: **Facebook AI Bot "Su"**  
-- 🌱 Learning: **Backend Development**, **AI/ML**  
-- 💡 Goal: Build **AI assistants** that feel human  
+- 🔭 Working on: **Bot messeger**  
+- 🌱 Learning: **Backend Development**, **AI/ML**    
 - ⚡ Fact: My code runs better after midnight 🌙  
 
 ---
