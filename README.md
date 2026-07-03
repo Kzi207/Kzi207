@@ -6,18 +6,28 @@
 # 👋 Hi, I'm Khánh Duy
 
 ### ⚙️ Mechatronics Engineering Student @ CTUT
-### 💻 Full Stack Developer • 🤖 AI Enthusiast • 🚀 Open Source Lover
+### 💻 Developer • 🤖 AI Enthusiast • 🚀 Open Source 
 
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Building+AI+Applications;Learning+Robotics+%26+Automation;Full+Stack+Web+Developer;Always+Curious+Always+Learning"/>
 </p>
 
-<p>
-<img src="https://komarev.com/ghpvc/?username=Kzi207&label=Profile%20Views&color=6A11CB&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/Kzi207?style=for-the-badge&logo=github"/>
-<img src="https://img.shields.io/github/stars/Kzi207?style=for-the-badge&logo=github"/>
-</p>
 
+<p align="center">
+
+<a href="https://facebook.com/kzi207">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.tiktok.com/@kzi207">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/kzi207">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
 </div>
 
 ---
