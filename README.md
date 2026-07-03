@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C9FF&height=220&section=header&text=Lê%20Khánh%20Duy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kỹ%20sư%20Cơ%20điện%20tử%20|%20Software%20&%20AI%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C9FF&height=220&section=header&text=Lê%20Khánh%20Duy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SV%20Cơ%20điện%20tử%20|%20Software%20&%20AI%20Developer&descAlignY=58&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=2575FC&center=true&vCenter=true&width=800&lines=Sinh+vi%C3%AAn+CNKT+C%C6%A1+%C4%91i%E1%BB%87n+t%E1%BB%AD+%40+CTUT;%C4%90am+m%C3%AA+Tr%C3%AD+tu%E1%BB%87+nh%C3%A2n+t%E1%BA%A1o+%26+Robotics;Full+Stack+Development+%7C+Node.js+%7C+React;X%C3%A2y+d%E1%BB%B1ng+s%E1%BA%A3n+ph%E1%BA%A9m+c%C3%B3+gi%C3%A1+tr%E1%BB%8B+th%E1%BB%B1c+ti%E1%BB%85n"/>
 
