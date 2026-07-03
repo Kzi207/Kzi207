@@ -1,17 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C9FF&height=220&section=header&text=Lê%20Khánh%20Duy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SV%20sư%20Cơ%20điện%20tử%20|%20Software%20&%20AI%20Developer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A11CB,50:2575FC,100:00C9FF&height=220&section=header&text=Lê%20Khánh%20Duy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Kỹ%20sư%20Cơ%20điện%20tử%20|%20Software%20&%20AI%20Developer&descAlignY=58&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=2575FC&center=true&vCenter=true&width=800&lines=Sinh+vi%C3%AAn+ng%C3%A0nh+C%C6%A1+%C4%91i%E1%BB%87n+t%E1%BB%AD+%40+CTUT;%C4%90am+m%C3%AA+Tr%C3%AD+tu%E1%BB%87+nh%C3%A2n+t%E1%BA%A1o+%26+Robotics;Full+Stack+Development+%7C+Node.js+%7C+React;X%C3%A2y+d%E1%BB%B1ng+s%E1%BA%A3n+ph%E1%BA%A9m+c%C3%B3+gi%C3%A1+tr%E1%BB%8B+th%E1%BB%B1c+ti%E1%BB%85n"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3200&pause=900&color=2575FC&center=true&vCenter=true&width=800&lines=Sinh+vi%C3%AAn+CNKT+C%C6%A1+%C4%91i%E1%BB%87n+t%E1%BB%AD+%40+CTUT;%C4%90am+m%C3%AA+Tr%C3%AD+tu%E1%BB%87+nh%C3%A2n+t%E1%BA%A1o+%26+Robotics;Full+Stack+Development+%7C+Node.js+%7C+React;X%C3%A2y+d%E1%BB%B1ng+s%E1%BA%A3n+ph%E1%BA%A9m+c%C3%B3+gi%C3%A1+tr%E1%BB%8B+th%E1%BB%B1c+ti%E1%BB%85n"/>
 
 <br/>
 
-<a href="https://facebook.com/yourfacebook"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.tiktok.com/@yourtiktok"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
-<a href="https://instagram.com/yourinstagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://facebook.com/kzi207"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@kzi207"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+<a href="https://instagram.com/kzi207"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:toi05022020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Kzi207&style=for-the-badge&color=2575FC&label=Lượt+ghé+thăm"/>
+<img src="https://img.shields.io/badge/Status-Đang%20học%20tập%20%26%20phát%20triển-2ea043?style=for-the-badge&logo=git&logoColor=white"/>
 
 </div>
 
@@ -19,13 +22,13 @@
 
 ## 🧭 Giới thiệu bản thân
 
-Xin chào, mình là **Trần Khánh Duy** — hiện đang theo học ngành **Cơ điện tử** tại **Trường Đại học Kỹ thuật – Công nghệ Cần Thơ (CTUT)**. Mình có nền tảng kỹ thuật liên ngành, kết hợp giữa **cơ khí – điện tử – lập trình**, và đang tập trung phát triển năng lực trong lĩnh vực **trí tuệ nhân tạo, tự động hóa và phát triển phần mềm ứng dụng**.
+Xin chào, mình là **Lê Khánh Duy** — sinh viên ngành **Công nghệ Kỹ thuật Cơ điện tử** tại **Trường Đại học Kỹ thuật – Công nghệ Cần Thơ (CTUT)**. Mình có nền tảng kỹ thuật liên ngành, kết hợp giữa **cơ khí – điện tử – lập trình**, và đang tập trung phát triển năng lực trong lĩnh vực **trí tuệ nhân tạo, tự động hóa và phát triển phần mềm ứng dụng**.
 
 Mình quan tâm đến việc xây dựng các sản phẩm công nghệ có tính ứng dụng thực tiễn cao, từ hệ thống nhúng, robot tự động, cho đến các nền tảng phần mềm phục vụ giáo dục và cộng đồng sinh viên.
 
 ```yaml
-Họ và tên:      Trần Khánh Duy
-Chuyên ngành:   Kỹ thuật Cơ điện tử
+Họ và tên:      Lê Khánh Duy
+Chuyên ngành:   Công nghệ Kỹ thuật Cơ điện tử
 Trường:         Đại học Kỹ thuật - Công nghệ Cần Thơ (CTUT)
 Định hướng:     AI • Robotics • Full-Stack Development
 Trạng thái:     Đang học tập & phát triển dự án cá nhân
@@ -72,7 +75,7 @@ Trạng thái:     Đang học tập & phát triển dự án cá nhân
 
 **Cơ sở dữ liệu**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,sqlite"/>
 
 **Công cụ phát triển**
 <br/>
@@ -84,6 +87,17 @@ Trạng thái:     Đang học tập & phát triển dự án cá nhân
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Kzi207/Kzi207/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -103,6 +117,32 @@ Trạng thái:     Đang học tập & phát triển dự án cá nhân
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kzi207&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+<br/>
+
+## 📈 Mức độ thành thạo
+
+<div align="center">
+
+`Node.js`
+![](https://progress-bar.xyz/85?title=&width=500&color=2575FC&suffix=%25)
+
+`React / TypeScript`
+![](https://progress-bar.xyz/75?title=&width=500&color=6A11CB&suffix=%25)
+
+`Python`
+![](https://progress-bar.xyz/70?title=&width=500&color=00C9FF&suffix=%25)
+
+`PostgreSQL / MySQL`
+![](https://progress-bar.xyz/70?title=&width=500&color=4169E1&suffix=%25)
+
+`AI / LLM Integration`
+![](https://progress-bar.xyz/65?title=&width=500&color=412991&suffix=%25)
+
+`Cơ điện tử / Robotics`
+![](https://progress-bar.xyz/60?title=&width=500&color=FF6B6B&suffix=%25)
 
 </div>
 
@@ -149,7 +189,13 @@ Trạng thái:     Đang học tập & phát triển dự án cá nhân
 ### 📫 Kết nối với mình
 
 <a href="https://github.com/Kzi207"><img src="https://skillicons.dev/icons?i=github"/></a>
-<a href="mailto:your@email.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="mailto:toi05022020@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+
+<br/><br/>
+
+<a href="https://facebook.com/kzi207"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
+<a href="https://www.tiktok.com/@kzi207"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
+<a href="https://instagram.com/kzi207"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
 
