@@ -22,7 +22,7 @@
 
 ## 🧭 Giới thiệu bản thân
 
-Xin chào, mình là **Lê Khánh Duy** — sinh viên ngành **Công nghệ Kỹ thuật Cơ điện tử** tại **Trường Đại học Kỹ thuật – Công nghệ Cần Thơ (CTUT)**. Mình có nền tảng kỹ thuật liên ngành, kết hợp giữa **cơ khí – điện tử – lập trình**, và đang tập trung phát triển năng lực trong lĩnh vực **trí tuệ nhân tạo, tự động hóa và phát triển phần mềm ứng dụng**.
+Xin chào, mình là **Lê Khánh Duy** — sinh viên ngành **Công nghệ Kỹ thuật Cơ điện tử** tại **Trường Đại học Kỹ thuật – Công nghệ Cần Thơ (CTUT)**. Mình đang cố gắn học nền tảng kỹ thuật liên ngành, kết hợp giữa **cơ khí – điện tử – lập trình**, và đang tập trung phát triển năng lực trong lĩnh vực **trí tuệ nhân tạo, tự động hóa và phát triển phần mềm ứng dụng**.
 
 Mình quan tâm đến việc xây dựng các sản phẩm công nghệ có tính ứng dụng thực tiễn cao, từ hệ thống nhúng, robot tự động, cho đến các nền tảng phần mềm phục vụ giáo dục và cộng đồng sinh viên.
 
